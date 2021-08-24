@@ -1,9 +1,10 @@
-Finds the integer with the least repetitions in a list of integers.
+C# script finds the integer with the least repetitions in a list of integers.
 
 Usage:      [command] RepetitionCounter.csx [arguments]
 
 Command:
-    interpreter         command to run whichever C# script interpreter is preferred
+    interpreter         command to call whichever C# script interpreter is preferred
+                        can call using csi, dotnet-script, or cscs
                         tested using dotnet-script
 
 Arguments:
